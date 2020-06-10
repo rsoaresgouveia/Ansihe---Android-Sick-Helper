@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Rodrigo Gouveia\.gradle\caches\transforms-2\files-2.1\22f8c96568b36978f8e5704ee12531e4\AndroidManifest.xml:16:1-20:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:11:5-54:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Rodrigo Gouveia\.gradle\caches\transforms-2\files-2.1\22f8c96568b36978f8e5704ee12531e4\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Rodrigo Gouveia\.gradle\caches\transforms-2\files-2.1\22f8c96568b36978f8e5704ee12531e4\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.sickhelper.Splash_activity
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:19:13-77
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:17:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.sickhelper.Login_activity
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:27:13-43
+activity#com.example.sickhelper.Main_Activity_Paciente
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:32:13-76
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:31:13-51
+activity#com.example.sickhelper.Select_user
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:35:13-40
+activity#com.example.sickhelper.Cadastro_paciente
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:40:13-69
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:39:13-46
+activity#com.example.sickhelper.Cadastro_responsavel
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:44:13-72
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:43:13-49
+activity#com.example.sickhelper.Main_Activity_Responsavel
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:48:13-79
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:47:13-54
+activity#com.example.sickhelper.Select_cadastro
+ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:52:13-67
+	android:name
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml:51:13-44
+uses-sdk
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Rodrigo Gouveia\.gradle\caches\transforms-2\files-2.1\22f8c96568b36978f8e5704ee12531e4\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Rodrigo Gouveia\.gradle\caches\transforms-2\files-2.1\22f8c96568b36978f8e5704ee12531e4\AndroidManifest.xml:18:5-42
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		ADDED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml
+		INJECTED from P:\Codes\Android_Applications\Ansihe - Android Sick Helper\AndroidSickHelper\app\src\main\AndroidManifest.xml

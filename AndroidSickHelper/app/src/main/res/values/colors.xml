@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="branco">#FFFFFF</color>
+    <color name="indigo">#3d4cbe</color>
+    <color name="verde">#1df627</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="vermelho">#E10000</color>
+    <color name="amarelo">#FFE71C</color>
+    <color name="laranja">#FFB11C</color>
+    <color name="roxo">#CF66FF</color>
+    <color name="preto">#000000</color>
+    <color name="navajo">#FFDEAD</color>
+    <color name="gainsboro">#DCDCff</color>
+    <color name="azulclaro">#87cbfb</color>
+    <color name="azulquaseclaro">#56B6F9</color>
+    
+</resources>

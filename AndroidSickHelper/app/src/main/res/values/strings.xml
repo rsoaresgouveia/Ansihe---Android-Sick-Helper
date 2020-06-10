@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSickHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login_activity">Login</string>
+    <string name="action_settings">Preferências</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main__activity__paciente">Tela principal Paciente</string>
+    <string name="dores">Dores</string>
+    <string name="title_activity_select_user">Já cadastrado?</string>
+    <string name="emergencia">EMERGÊNCIA!</string>
+    <string name="outros">Outros</string>
+    <string name="necebasic">Necessidades Básicas</string>
+    <string name="paciente">Paciente</string>
+    <string name="responsavel">Responsável</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="title_activity_cadastro_paciente">Cadastro do Paciente</string>
+    <string name="title_activity_cadastro_responsavel">Cadastro do responsavel</string>
+    <string name="title_activity_main__activity__responsavel">Tela Principal Responsável</string>
+    <string name="title_activity_select_cadastro">Selecionar tipo de novo usuário</string>
+    <string name="enviar">Enviar</string>
+
+</resources>

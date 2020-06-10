@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sickhelper"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.sickhelper.Splash_activity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Login_activity"
+            android:label="@string/title_activity_login_activity" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Main_Activity_Paciente"
+            android:label="@string/title_activity_main__activity__paciente" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Select_user"
+            android:label="@string/title_activity_select_user" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Cadastro_paciente"
+            android:label="@string/title_activity_cadastro_paciente" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Cadastro_responsavel"
+            android:label="@string/title_activity_cadastro_responsavel" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Main_Activity_Responsavel"
+            android:label="@string/title_activity_main__activity__responsavel" >
+        </activity>
+        <activity
+            android:name="com.example.sickhelper.Select_cadastro"
+            android:label="@string/title_activity_select_cadastro" >
+        </activity>
+    </application>
+
+</manifest>
